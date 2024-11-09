@@ -1,6 +1,5 @@
-local wl = {
+return {
 "jjjjkkmmdjgjfm",
 "fps946",
 "46386ewrf",
 }
-return wl
