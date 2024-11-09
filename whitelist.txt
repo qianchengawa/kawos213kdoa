@@ -3,3 +3,4 @@ local wl = {
 "fps946",
 "46386ewrf",
 }
+return wl
